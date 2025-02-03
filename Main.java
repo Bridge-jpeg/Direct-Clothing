@@ -10,6 +10,5 @@ public class Main{
 
     scanner.close();
     
-    System.out.println("Kupal ka lyndo");
   }
 }
