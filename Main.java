@@ -8,6 +8,12 @@ public class Main{
 
     int category = scanner.nextInt();
 
+    if 
+
+    System.out.println("1.Shirt \n2.T-Shirt \n3.Polo \n4.Polo Shirt \n5.Pants \nPick a catalog:");
+
+    int catalog = scanner.nextInt();
+
     scanner.close();
     
     System.out.println("Kupal ka lyndo");
