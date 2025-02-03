@@ -6,7 +6,7 @@ public class Main{
 
     System.out.println("1.Unisex \n2.Women \n3.Men \n4.Children \n5.Infants \nPick a category:");
 
-    String category = scanner.nextLine();
+    int category = scanner.nextInt();
 
     scanner.close();
     
