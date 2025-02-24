@@ -4,4 +4,6 @@ public class OrderService {
   String itemName;
   int itemQuantity;
   String eTa;
-  String place;
+  String departed;
+  String customerAddress;
+  String sorting;
